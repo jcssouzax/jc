@@ -1,0 +1,10 @@
+print("digite um numero")
+numero=int(input("digite um numero "))
+print("digite um numero")
+numero2=int(input("digite um numero "))
+print(numero )
+
+print(numero+numero2)
+print(numero-numero2)
+print(numero*numero2)
+print(numero/numero2)

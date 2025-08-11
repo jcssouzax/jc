@@ -1,0 +1,1 @@
+print("subtração:",50-45)
